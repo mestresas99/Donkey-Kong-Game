@@ -1,0 +1,74 @@
+
+# Creating constants so it is easier to modify values
+# Maximum width and height are 256
+WIDTH =250
+HEIGHT = 200
+CAPTION = "DONKEY KONG"
+    
+MARIO_X= 20
+MARIO_Y= 161
+LIVES = 3
+
+
+DK_X= 40
+DK_Y= 34
+
+PAU_X= 100
+PAU_Y= 20
+
+BAR_X = 70
+BAR_Y = 51
+
+BAR1_X = 20
+BAR1_Y = 36
+
+#platforms constants
+PLAT_X =20
+PLAT_Y =176
+PLAT_X1 =110
+PLAT_Y1 =176
+
+PLAT_X2 =40
+PLAT_Y2 =148
+PLAT_X22 =110
+PLAT_Y22 =148
+
+PLAT_X3 =20
+PLAT_Y3 =120
+PLAT_X33 =110
+PLAT_Y33 =120
+
+PLAT_X4 =40
+PLAT_Y4 =92
+PLAT_X44 =110
+PLAT_Y44 =92
+
+PLAT_X5 =20
+PLAT_Y5 =66
+PLAT_X55 =110
+PLAT_Y55 =66
+
+PLAT_X6 =93
+PLAT_Y6 =40
+
+
+#stairs
+S1X = 110
+S1Y = 157
+
+S2X = 87
+S2Y = 129
+
+S3X = 150
+S3Y = 101
+
+S4X = 40
+S4Y = 101
+
+S5X = 200
+S5Y = 73
+
+S6X = 95
+S6Y = 47
+
+
